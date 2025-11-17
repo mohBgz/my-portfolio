@@ -1,12 +1,60 @@
-# React + Vite
+# 🚀 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio built with **React + Vite**, showcasing my projects, skills, and experience as a web developer.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 **Website:** [mohamedbgz.dev](https://mohamedbgz.dev/)  
+📦 **Repository:** [github.com/mohamedbgz/portfolio](https://github.com/mohamedbgz/portfolio)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** - UI library
+- **Vite** - Build tool
+- **TailwindCSS** - Styling
+- **Framer Motion** - Animations
+- **Lucide Reacts** - Icons
+
+## ✨ Features
+
+✅ Fully responsive design  
+✅ Smooth scroll animations  
+✅ Fast load times with Vite  
+✅ Clean, modern UI  
+✅ Interactive project showcase  
+
+## 🚀 Getting Started
+
+### Installation
+```bash
+npm install
+```
+
+### Development
+```bash
+npm run dev
+```
+
+### Build for Production
+```bash
+npm run build
+```
+
+### Preview Production Build
+```bash
+npm run preview
+```
+
+## 📬 Contact
+
+📧 **Email:** [bouguezine.mohamed@gmail.com](mailto:bouguezine.mohamed@gmail.com)  
+💼 **LinkedIn:** [Mohamed Bouguezine](https://www.linkedin.com/in/mohamed-bouguezine/)  
+🌐 **Portfolio:** [mohamedbgz.dev](https://mohamedbgz.dev/)
+
+## 📝 License
+
+MIT License © Mohamed Bgz
+
+---
+
+⭐ **Star this repo if you found it helpful!**

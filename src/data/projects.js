@@ -1,0 +1,31 @@
+export const projects = [
+	{
+		name: "Echo Bot",
+		description:
+			"AI-powered web chatbot that answers questions from uploaded documents and CMS content using vector search.",
+		techStack: [
+			"React",
+			"Typescript",
+			"Tailwind",
+			"Express",
+			"Supabase",
+			"Qdrant",
+			"Cohere",
+		],
+        link: "#"
+	},
+	{
+		name: "Auth B",
+		description:
+			"Secure authentication platform with 2FA, JWT, password reset, and reCAPTCHA.",
+		techStack: ["React", "Tailwind", "Express", "MongoDB", "JWT"],
+        link:"https://github.com/mohBgz/SplitEase"
+	},
+	{
+		name: "SplitEase",
+		description:
+			"A web app that simplifies splitting bills among friends from a single receipt.",
+		techStack: ["React", "Tailwind", "Axios", "Express", "Docker"],
+        link: "https://github.com/mohBgz/docs-chat-bot"
+	},
+];

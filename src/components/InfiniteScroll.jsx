@@ -27,7 +27,7 @@ export const InfiniteScroll = ({className}) => {
             key={idx}
             src={icon}
             alt={`icon-${idx}`}
-            className=" w-auto max-h-[40px]  sm:max-h-[50px] mx-4 "
+            className=" w-auto h-8 sm:h-12 md:h-14 lg:h-16 mx-4 "
           />
         )
       )}
