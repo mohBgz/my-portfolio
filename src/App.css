@@ -3,6 +3,11 @@
 
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 body {
   box-sizing: border-box;
   padding: 0;

@@ -1,6 +1,6 @@
 {
   "name": "frontend-porfolio",
-  "homepage": "https://mohBgz.github.io/my-portfolio",
+  "homepage": "https://mohamedbgz.dev",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,7 @@
     "@tailwindcss/vite": "^4.1.10",
     "gh-pages": "^6.3.0",
     "lucide-react": "^0.553.0",
+    "motion": "^12.23.26",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-fast-marquee": "^1.6.5",
