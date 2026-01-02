@@ -17,6 +17,7 @@ import { projects } from "./data/projects.js";
 import { skills } from "./data/skills.js";
 
 function App() {
+	// Motion Variants
 	const heroContainer = {
 		hidden: { opacity: 0 },
 		show: {
@@ -50,7 +51,6 @@ function App() {
 		hidden: { opacity: 0, y: 20 },
 		show: { opacity: 1, y: 0 },
 	};
-	
 
 	const [count, setCount] = useState(0);
 	const [validationEmailError, setValidationEmailError] = useState(false);
@@ -59,7 +59,7 @@ function App() {
 	const [isLoading, setIsLoading] = useState(false);
 	const [messageSent, setMessageSent] = useState(false);
 	const [overlayOpen, setOverlayOpen] = useState(false);
-	const toggleOverlay = () => {};
+
 	const scrollToSection = (id) => {
 		const element = document.getElementById(id);
 		if (!element) return;
@@ -115,7 +115,9 @@ function App() {
 	}, []);
 	return (
 		// screen wrapper
-		<div className=" relative border-0 border-amber-500">
+
+		<div className=" relative">
+			<h1 className=" sr-only">Mohamed Bouguezine</h1>
 			{/* Header */}
 			{/* bg-gradient-to-t from-[#010215] to-[#2B4874]  implement when scroll passed homepage */}
 
